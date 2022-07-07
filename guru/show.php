@@ -28,7 +28,7 @@
                     $alamat = $data['alamat'];
 
                 }
-                //token github : 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
+
             ?>
             <form action="" method="">
                 <input type="hidden" name="aksi" value="update">
